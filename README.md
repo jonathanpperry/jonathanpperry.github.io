@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# Software Engineer
+
+### Education
+Computer Science, BSE from University of Michigan
+
+### Work Experience
+6+ years of software engineering experience
+
+### Projects
+Check out my portfolio [here](https://jonathanperry.info)
+
 <!--
 **jonathanpperry/jonathanpperry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
